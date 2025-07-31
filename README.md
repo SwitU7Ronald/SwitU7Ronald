@@ -21,7 +21,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F57C00?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
