@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kshitij Parmar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+%26+Firebase+Developer;Cybersecurity+Enthusiast+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%93%9D%EF%B8%8F;Dart%2C+VB.NET%2C+Linux%2C+Windows+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+%26+Firebase+Developer;Cybersecurity+Enthusiast+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%93%9D%EF%B8%8F;Dart%2C+Linux%2C+Windows+User" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 💼 Ex-Cybersecurity Trainer @ St. Joseph Computer Center
 - 🔧 Developer focused on **Flutter + Firebase**
 - 💡 Tech enthusiast with background in **custom ROMs** and **secure coding**
-- 🛠️ Proficient in: Dart, VB.NET, Linux, Windows
+- 🛠️ Proficient in Dart, Linux, Windows
 - 📍 Based in Nadiad, Gujarat, India 🇮🇳
 
 ---
@@ -22,7 +22,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?style=for-the-badge&logo=.net)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark)
@@ -36,7 +35,6 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | 🛒 [**CC Store**](https://github.com/SwitU7Ronald/CC-Store) | Flutter + Firebase | E-commerce Android app with cart, real-time DB, and auth |
-| 🖥 [**MC Store**](https://github.com/SwitU7Ronald/MC-Store) | VB.NET | Offline desktop store manager for retail |
 | 📘 [**Dart Course: Zero to Hero**](https://github.com/SwitU7Ronald/Dart-Course-Zero-Hero) | Dart | Complete hands-on Dart programming course |
 
 ---
