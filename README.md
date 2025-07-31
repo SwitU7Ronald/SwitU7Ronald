@@ -56,8 +56,7 @@
 
 ---
 
-<p align="center">🔥 Code. Learn. Secure. Repeat. 🚀</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=SwitU7Ronald&style=flat-square)
 
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SwitU7Ronald&style=flat-square)
-</p>
+
+<p align="center">🔥 Code. Learn. Secure. Repeat. 🚀</p>
